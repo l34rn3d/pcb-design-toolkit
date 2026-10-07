@@ -1,0 +1,12 @@
+.cache/
+__pycache__/
+*.pyc
+.venv/
+dist/
+temp/
+*.kicad_prl
+*.lck
+*-backups/
+.agents/
+.aws/
+.codex/

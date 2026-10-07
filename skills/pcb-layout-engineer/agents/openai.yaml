@@ -1,0 +1,4 @@
+interface:
+  display_name: "PCB Layout Engineer"
+  short_description: "Design and verify KiCad PCB layouts and drafts"
+  default_prompt: "Use $pcb-layout-engineer to review my KiCad project and complete its PCB layout with verified constraints."
